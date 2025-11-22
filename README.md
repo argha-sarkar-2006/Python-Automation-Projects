@@ -31,13 +31,13 @@
   <img src="https://img.shields.io/badge/-arghasarkar.com-26c538?style=flat&logo=Google-Chrome&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/argha-sarkar-867555343/" target="_blank">
-  <img src="https://img.shields.io/badge/-Argha_sarkar(Linked_In)-0A66C2?style=flat&logo=&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/-Linked_In-0A66C2?style=flat&logo=&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:arghasarkar953@gmail.com"><img src="https://img.shields.io/badge/Argha sarkar-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
-<a href="https://instagram.com/argha_0002"><img src="https://img.shields.io/badge/Argha_0002-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
+<a href="https://instagram.com/argha_0001"><img src="https://img.shields.io/badge/argha_0001-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
 <a href="https://www.facebook.com/profile.php?id=100023490275383"><img src="https://img.shields.io/badge/-Argha Sarkar-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
 
 </p>
 <hr>
 <p>Credits: <a href="https://github.com/argha-sarkar-2006">Argha Sarkar</a></p>
-<p>Last Edited on: 14-07-2025  (01:45 PM)</p> 
+<p>Last Edited on: 22-11-2025  ( 08:34 PM )</p> 
